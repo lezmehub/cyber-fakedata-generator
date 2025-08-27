@@ -28,7 +28,7 @@ Line Wrapping
 Collapse
 Copy
 1
-git clone https://github.com/yourusername/cyberdata.git
+git clone [https://github.com/yourusername/cyberdata.git](https://github.com/lezmehub/cyber-fakedata-generator)
 Navigate to the project directory:
 bash
 
@@ -187,15 +187,7 @@ Copy
 7
 8
 9
-⌄
-:root {
-    --primary-neon: #00ffff;    /* Primary neon color */
-    --secondary-neon: #ff00ff;  /* Secondary neon color */
-    --accent-neon: #ffff00;     /* Accent neon color */
-    --dark-bg: #0a0a0a;         /* Dark background */
-    --card-bg: rgba(20, 20, 30, 0.8);  /* Card background */
-    --text-primary: #ffffff;    /* Primary text color */
-    --text-secondary: #b0b0b0; /* Secondary text color */
+
 }
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -214,7 +206,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 📧 Contact
 Created by Fetus - @fetus
 
-Project Link: https://github.com/yourusername/cyberdata
+Project Link: [https://github.com/yourusername/cyberdata](https://github.com/lezmehub/cyber-fakedata-generator)
 
 🙏 Acknowledgments
 Bootstrap for the responsive framework
